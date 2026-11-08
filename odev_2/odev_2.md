@@ -19,7 +19,7 @@ Git ve GitHub, birden fazla kişinin aynı proje üzerinde birbirinin çalışma
 - Merge Conflict: İki farklı branch'te aynı kod bölümü uyumsuz şekilde değiştirildiğinde Git'in hangi değişikliği kullanacağına otomatik karar verememesidir.
 Örnek: İki kişi aynı dosyadaki aracın maksimum hız değerini farklı şekilde değiştirmişse merge conflict oluşabilir. Ekip üyeleri kodu inceleyerek doğru değeri belirler, çakışmayı çözer ve branch'leri birleştirir.
 # 4. GitHub’ın proje yönetimi özellikleri:
-- GitHub yalnızca kod saklamak için değil, projelerin planlanması ve yönetilmesi için de kullanılabilir.
+GitHub yalnızca kod saklamak için değil, projelerin planlanması ve yönetilmesi için de kullanılabilir.
 - GitHub Issues: Projede yapılması gereken görevlerin, hataların ve geliştirme önerilerinin kaydedilmesini sağlar.
 - GitHub Projects: Görevlerin planlanmasını ve ilerlemelerinin takip edilmesini sağlar. Görevler To Do, In Progress, Done gibi aşamalara ayrılabilir.
 - README.md: Projenin amacını, kurulum aşamalarını, kullanılan teknolojileri ve çalışma şeklini açıklamak için kullanılır.
